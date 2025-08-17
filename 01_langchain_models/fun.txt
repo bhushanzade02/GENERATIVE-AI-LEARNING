@@ -1,0 +1,34 @@
+documents = [
+    
+    
+    
+    "Aditi Bhosure – tEvery day she travels , going from college to home and back. Still manages to study !",
+    
+    "Amruta Dahatonde – from Nevasa. In the beginning she used to cry daily before coming to ISSC, like Bollywood’s emotional heroine. But now she’s in master mode, doing her MSc like a pro – no more tears, only grades!",
+    
+    "Bhushan Zade – the Nagpur tiger. Known for stats, coding, and Scientific Computing. Sometimes people think he is secretly training to be the next Google CEO. Don’t argue with him, he has algorithms for everything.",
+    
+    "Dipak Patil – the cameraman of the batch. He has more knowledge about videography than Spielberg. Runs a YouTube channel, so careful, any moment you might end up in his vlog!",
+    
+    "Firdous – t. Her creativity is so high that even Canva might hire her someday. Any event? She already has 10 posters ready with full-on design swag.",
+    
+    "Komal Pansadera – she is from nagar.",
+    
+    "Sakshi Ladkat – the kind soul of the batch. Always ready to help everyone, like Google but without ads. People say if you ask Sakshi anything, you’ll get an answer with a smile.",
+    
+    "Sanjana Joshi – the official topper. Always in chill mode, as if exams are a vacation. Loves coffee more than people. Probably solving math equations while sipping her latte.",
+    
+    "Sanket Gaikwad – smart guy from Shirdi. This semester he has taken Operations Research, so don’t be surprised if he starts optimizing your life decisions too.",
+    
+    "Santosh Mule – the silent killer. Doesn’t talk much, but when it comes to studies, he is dead serious. Be careful, his silence speaks louder than 100 PPTs.",
+    
+    "Satyam Nalakar – genuine person, but not exactly a ladies’ man. Currently one mystery lady is in love with him, but he is too busy ignoring her like a true scientist.",
+    
+    "Siddharth Kardile – the manager + coder combo. Currently running the alumni meet program like an event planner, but also secretly a good coder. Basically half Elon Musk, half wedding planner.",
+    
+    "Tahera Sayyad – the fighter of the batch. Struggling with coding, but still pushing through like a coding warrior. Soon Python itself might say: ‘Tahera, take rest, I’ll code for you.’",
+    
+    "Vaishnav Mankar – the senior data scientist. Claims to have crores of packages. Rejected MNC offers just for 10 rupees, proving negotiation is an art he doesn’t believe in.",
+    
+    "Varad Taprey – the mystery man. If I reveal too much, he might actually beat me up. So let’s just say: one of a kind!"
+]
