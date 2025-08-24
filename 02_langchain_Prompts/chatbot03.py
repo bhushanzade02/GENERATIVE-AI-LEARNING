@@ -24,7 +24,8 @@ while True:
     print("AI :  " ,result.content )
 
 print(chat_history)
-
+ 
+ 
 # now we solve our message is now labelled 
 
 

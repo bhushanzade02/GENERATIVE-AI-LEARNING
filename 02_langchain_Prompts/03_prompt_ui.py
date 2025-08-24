@@ -1,4 +1,5 @@
-# we dont adding prmpt templat into this file we are getiing prompt from json file thru template = load_prompt('template.json') 
+# we dont adding prmpt templat into this file we are 
+#getiing prompt from json file thru template = load_prompt('template.json') 
 
 from langchain_google_genai import ChatGoogleGenerativeAI
 from dotenv import load_dotenv

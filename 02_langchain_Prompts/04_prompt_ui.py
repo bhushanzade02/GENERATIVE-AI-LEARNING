@@ -1,4 +1,5 @@
-# in whic we are calling invoke function two times instead of calling we ca call to this only one time using chain function 
+# in whic we are calling invoke function two times instead of 
+#calling we ca call to this only one time using chain function 
 
 from langchain_google_genai import ChatGoogleGenerativeAI
 from dotenv import load_dotenv

@@ -19,8 +19,7 @@ prompt = chat_template.invoke({'chat_history':chat_history, 'query':'Where is my
 print(prompt)
 
 
-# this will give entire chathistort previou soe day generalyy it 
-# si stioreon cloud but we are locally stor nthus in .txt file 
+1
 
 # ['HumanMessage(content="I want to request a refund for my order #12345.")\n', 
 # 'AIMessage(content="Your refund request for order #12345 has been initiated. It will be processed in 3-5 business days.")']

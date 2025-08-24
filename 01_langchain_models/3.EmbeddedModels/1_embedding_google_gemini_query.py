@@ -7,3 +7,4 @@ embeddings = GoogleGenerativeAIEmbeddings(model="models/text-embedding-004",dime
 result = embeddings.embed_query("delhi is capital of india")
 
 print(str(result))  # This will print a list of floats (the embedding vector)
+
