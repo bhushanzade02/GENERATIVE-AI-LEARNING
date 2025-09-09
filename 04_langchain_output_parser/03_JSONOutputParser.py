@@ -16,15 +16,15 @@ model = ChatHuggingFace(llm=llm)
 parser = JsonOutputParser()
 
 template = PromptTemplate(
-    template = "give me the name , age and city of a fictional person \n {format_instruction}",
-    input_variables =[],
+    template = "give me 5 facts about {topic} \n {format_instruction}",
+    input_variables =['topic'],
     partial_variables ={'format_instruction':parser.get_format_instructions() }
 )
+""" 
+# prompt =template.format()
 
-prompt =template.format()
 
-
-result = model.invoke(prompt)
+# result = model.invoke(prompt)
 
 # print(result.content)
 #  print(result) 
@@ -38,10 +38,11 @@ result = model.invoke(prompt)
 # print(final_result)
 # print(final_result['name'])
 # print(type(final_result))
+"""
 
 # ( BY USING CHAIN)
 chain = template | model | parser
 
-result = chain.invoke({})
+result = chain.invoke({'topic':'black hole'})
 
 print(result)
