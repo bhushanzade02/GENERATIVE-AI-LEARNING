@@ -43,6 +43,7 @@ template = PromptTemplate(
 # ( BY USING CHAIN)
 chain = template | model | parser
 
+
 result = chain.invoke({'topic':'black hole'})
 
 print(result)
