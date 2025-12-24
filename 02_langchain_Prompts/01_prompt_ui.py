@@ -15,4 +15,5 @@ if st.button("Summarize"):
     st.write(result.content)
 
 # this static prompt if you want info about other rerach paper then you have to give input (prompt) 
-# staic prompt is not used as much beacuse you are giving more control to user
+# staic prompt is not used as much beacuse you are giving more control to 
+
