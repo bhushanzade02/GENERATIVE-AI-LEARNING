@@ -11,3 +11,8 @@ model = ChatHuggingFace(llm=llm)
 result = model.invoke("who is the president of india")
 
 print(result.content)
+
+
+
+
+
